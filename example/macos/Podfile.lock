@@ -1,0 +1,22 @@
+PODS:
+  - date_picker (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - date_picker (from `Flutter/ephemeral/.symlinks/plugins/date_picker/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  date_picker:
+    :path: Flutter/ephemeral/.symlinks/plugins/date_picker/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  date_picker: 8a9680ade294511d377143d635c30f6a55c23ccc
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.11.3
